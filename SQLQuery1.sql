@@ -1,0 +1,6 @@
+SELECT TOP (1000) [Id]
+      ,[name]
+      ,[gender]
+      ,[age]
+      ,[standard]
+  FROM [StudentDB].[dbo].[student]
